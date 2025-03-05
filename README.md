@@ -12,11 +12,12 @@ Users can add notes with title/content, and add/remove any of them from the dash
 
 ## Screenshots
 
-- **Add new note**
+**Add new note**
 
 ![範例 GIF](https://raw.githubusercontent.com/scottwang0603/Keeper/main/gifs/Add-new-note.gif)
 
-- **Delete a random note**
+**Delete a random note**
+
 ![範例 GIF](https://raw.githubusercontent.com/scottwang0603/Keeper/main/gifs/Delete-one-note.gif)
 
 &nbsp;
