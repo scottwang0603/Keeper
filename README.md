@@ -1,8 +1,8 @@
 # Keeper App
 
 This is a demo for keeping notes.
-Developed purly based on React.
-Users can add notes with title/content, and add/remove any of them from the dashboard. 
+Developed based on React.
+Users can add notes with title/content, and remove any of them from the dashboard. 
 
 ## Features
 
