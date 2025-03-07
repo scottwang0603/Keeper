@@ -14,11 +14,19 @@ Users can add notes with title/content, and remove any of them from the dashboar
 
 **Add new note**
 
-![範例 GIF](https://raw.githubusercontent.com/scottwang0603/Keeper/main/gifs/Add-new-note.gif)
+
+
+https://github.com/user-attachments/assets/c9ae93c2-29f8-4731-9439-e1ee248ee4ad
+
+
 
 **Delete a random note**
 
-![範例 GIF](https://raw.githubusercontent.com/scottwang0603/Keeper/main/gifs/Delete-one-note.gif)
+
+
+https://github.com/user-attachments/assets/fb7682b6-b925-48be-8510-c7053132459e
+
+
 
 &nbsp;
 
